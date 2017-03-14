@@ -1,0 +1,10 @@
+Operating Systems: Three Easy Pieces is a free OS book.
+
+You can find it here for free as PDF chapters: http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+This script stitches the PDF chapters together into a single PDF book.
+
+Requires pdftk to be installed.
+
+To run, chmod +x and:
+`./get_os_book.py`
